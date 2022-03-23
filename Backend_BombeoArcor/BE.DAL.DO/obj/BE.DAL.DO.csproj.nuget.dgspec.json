@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {}
+    "C:\\Users\\kendall\\Desktop\\Diseno y Desarrollo de Sistemas J 6-9\\sprint2\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {}
   },
   "projects": {
-    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+    "C:\\Users\\kendall\\Desktop\\Diseno y Desarrollo de Sistemas J 6-9\\sprint2\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "projectUniqueName": "C:\\Users\\kendall\\Desktop\\Diseno y Desarrollo de Sistemas J 6-9\\sprint2\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
         "projectName": "BE.DAL.DO",
-        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
-        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\obj\\",
+        "projectPath": "C:\\Users\\kendall\\Desktop\\Diseno y Desarrollo de Sistemas J 6-9\\sprint2\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "packagesPath": "C:\\Users\\kendall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kendall\\Desktop\\Diseno y Desarrollo de Sistemas J 6-9\\sprint2\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "J:\\vscomshared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kendall\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

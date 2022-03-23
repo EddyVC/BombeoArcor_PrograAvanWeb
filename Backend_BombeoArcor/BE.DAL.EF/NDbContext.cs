@@ -22,6 +22,8 @@ namespace BE.DAL.EF
 
         public virtual DbSet<Sales> Sales { get; set; }
 
+        public virtual DbSet<Instalador> Instalador { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Categories>(entity =>
@@ -83,7 +85,23 @@ namespace BE.DAL.EF
                 entity.Property(e => e.Active).HasColumnName("ACTIVE");
             });
 
-           
+            modelBuilder.Entity<Instalador>(entity =>
+            {
+                entity.HasKey(e => e.IdRol)
+                    .HasName("PK__INSTALAD__2A49584C89675C44");
+
+                entity.ToTable("INSTALADOR", "dbo");
+
+                entity.Property(e => e.FechaRegistro)
+                    .HasColumnType("datetime")
+                    .HasDefaultValueSql("(getdate())");
+
+                entity.Property(e => e.Nombre)
+                    .HasMaxLength(60)
+                    .IsUnicode(false);
+            });
+
+
 
             OnModelCreatingPartial(modelBuilder);
         }

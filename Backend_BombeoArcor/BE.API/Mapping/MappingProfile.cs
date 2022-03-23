@@ -14,6 +14,7 @@ namespace BE.API.Mapping
             CreateMap<data.Categories, DataModels.Categories>().ReverseMap();
             CreateMap<data.Products, DataModels.Products>().ReverseMap();
             CreateMap<data.Sales, DataModels.Sales>().ReverseMap();
+            CreateMap<data.Instalador, DataModels.Instalador>().ReverseMap();
         }
     }
 }
