@@ -12,6 +12,8 @@ namespace BE.API.Mapping
         public MappingProfile()
         {
             CreateMap<data.Categories, DataModels.Categories>().ReverseMap();
+            CreateMap<data.Products, DataModels.Products>().ReverseMap();
+            CreateMap<data.Sales, DataModels.Sales>().ReverseMap();
         }
     }
 }
