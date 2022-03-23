@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj": {}
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj",
         "projectName": "BE.API",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\BE.API.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj"
               },
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj"
               }
             }
           }
@@ -98,21 +102,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj",
         "projectName": "BE.BS",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\BE.BS.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.BS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,11 +134,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
               },
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj"
               }
             }
           }
@@ -181,21 +189,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
         "projectName": "BE.DAL.DO",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,21 +247,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj",
         "projectName": "BE.DAL.EF",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -263,8 +279,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
               }
             }
           }
@@ -315,21 +331,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
         "projectName": "BE.DAL.Repository",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -343,8 +363,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.EF\\BE.DAL.EF.csproj"
               }
             }
           }
@@ -390,26 +410,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj": {
+    "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj",
+        "projectUniqueName": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj",
         "projectName": "BE.DAL",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\obj\\",
+        "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\BE.DAL.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -423,11 +461,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.DO\\BE.DAL.DO.csproj"
               },
-              "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj"
+              "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
+                "projectPath": "F:\\PROGRAAVAN\\BombeoArcor_PrograAvanWeb\\Backend_BombeoArcor\\BE.DAL.Repository\\BE.DAL.Repository.csproj"
               }
             }
           }
@@ -478,7 +516,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

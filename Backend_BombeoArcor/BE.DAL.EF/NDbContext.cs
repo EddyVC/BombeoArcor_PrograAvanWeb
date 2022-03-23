@@ -18,6 +18,10 @@ namespace BE.DAL.EF
         }
         public virtual DbSet<Categories> Categories { get; set; }
 
+        public virtual DbSet<Products> Products { get; set; }
+
+        public virtual DbSet<Sales> Sales { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Categories>(entity =>
@@ -32,6 +36,54 @@ namespace BE.DAL.EF
                     .HasMaxLength(50)
                     .IsUnicode(false);
             });
+
+            modelBuilder.Entity<Sales>(entity =>
+            {
+                entity.ToTable("SALES", "dbo");
+
+                entity.Property(e => e.Id).HasColumnName("ID");
+
+                entity.Property(e => e.ClientName)
+                    .IsRequired()
+                    .HasColumnName("CLIENT_NAME")
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.SaleTotal).HasColumnName("SALE_TOTAL");
+            });
+
+            modelBuilder.Entity<Products>(entity =>
+            {
+                entity.ToTable("PRODUCTS", "dbo");
+
+                entity.Property(e => e.Id).HasColumnName("ID");
+
+                entity.Property(e => e.Name)
+                    .IsRequired()
+                    .HasColumnName("NAME")
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Description)
+                    .IsRequired()
+                    .HasColumnName("DESCRIPTION")
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Price)
+                    .IsRequired()
+                    .HasColumnName("PRICE");
+
+                entity.Property(e => e.Url)
+                    .HasColumnName("URL")
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Category).HasColumnName("CATEGORY");
+
+                entity.Property(e => e.Active).HasColumnName("ACTIVE");
+            });
+
+           
 
             OnModelCreatingPartial(modelBuilder);
         }
